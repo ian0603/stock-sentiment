@@ -47,4 +47,4 @@ GitHub Actions 的執行環境沒有本地 Ollama，因此模型推論在本機�
 
 ## 作品頁
 
-（https://github.com/ian0603/stock-sentiment）
+（https://github.io/ian0603/stock-sentiment）
